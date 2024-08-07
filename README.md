@@ -98,5 +98,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ravi-aman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ravi-aman/ravi-aman/output/snake.svg" alt="Snake animation" />
+
+###
+
 [![](https://visitcount.itsvg.in/api?id=ravi-aman&icon=0&color=0)](https://visitcount.itsvg.in)
 
