@@ -10,7 +10,7 @@
 - 🛠️ I enjoy developing scalable web applications and contributing to open-source projects.
 
 ## 🔭 Current Focus:
-- Working on a [task manager application](https://github.com/ravi-aman/challenge-application-).
+- Working on a [note making application](https://github.com/ravi-aman/move).
 - Learning **AWS and Docker** to enhance cloud and DevOps skills.
 
 ## 🌱 Skills and Tech Stack:
